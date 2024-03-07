@@ -3,3 +3,7 @@ body{
     background: lightgreen;
     text-align: center;
 }
+
+a:hover{
+    background-color: red;
+}
