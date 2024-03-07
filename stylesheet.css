@@ -9,6 +9,10 @@ h1{
    color: brown;
    background-color: green; 
 }
+#funid{
+    font-size: 18px;
+    font-style:italic;
+}
 
 a:hover{
     background-color: red;
