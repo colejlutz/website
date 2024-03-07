@@ -13,6 +13,10 @@ h1{
     font-size: 40px;
     color: purple;
 }
+.orangehighlight {
+    color: orange;
+    font-family: 'Gill Sans';
+}
 
 a:hover{
     background-color: red;
